@@ -6,8 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Signal_R;
 
-namespace Signal_R
+namespace SignalR
 {
     public class Program
     {
